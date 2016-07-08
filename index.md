@@ -2,7 +2,7 @@
 
   <img src="http://ydcun.github.io/img/DSC_5537.jpg" width="120px;" style="float:left; margin-right:100px;"/>
 
- - <span style="font-size:18px;">于佃存/男/学生</span>
+ - <span style="font-size:18px;">于佃存 / 男 / 在读研究生</span>
  - <span style="font-size:18px;">学 校：中国科学院计算技术研究所</span>
  - <span style="font-size:18px;">实验室：普适计算研究中心</span>
  - <span style="font-size:18px;">指导老师：陈益强</span>
