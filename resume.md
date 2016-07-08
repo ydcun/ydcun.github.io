@@ -1,7 +1,7 @@
 # 个人信息
-
-  <img src="http://ydcun.github.io/img/DSC_5537.jpg" width="120px;" style="float:right; margin-left300px;"/>
-
+<div style="height:200px;float:left;padding:30px 70px 30px 20px;">
+  <img src="http://ydcun.github.io/img/DSC_5537.jpg" width="120px;"/>
+</div>
  - <span style="font-size:18px;">于佃存/男/学生</span>
  - <span style="font-size:18px;">学校:  中国科学院计算技术研究所</span>
  - <span style="font-size:18px;">实验室：   普适计算研究中心</span>
@@ -11,6 +11,7 @@
 
 - <span style="font-size:18px;">期望职位：Java高级程序员，架构师</span>
 - <span style="font-size:18px;">期望城市：北京,上海，杭州</span>
+
 
 ---
 
