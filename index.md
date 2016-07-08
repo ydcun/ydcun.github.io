@@ -1,6 +1,6 @@
 # 个人信息
 
-  <img src="img/about.jpg" width="120" style="float:right;"/>
+  <img src="http://ydcun.github.io/img/about.jpg" width="120" style="float:right;"/>
 
  - 于佃存/男/学生
  - 学校：中国科学院计算技术研究所
