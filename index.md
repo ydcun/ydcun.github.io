@@ -8,6 +8,7 @@
  - <span style="font-size:18px;">指导老师：陈益强</span>
  - <span style="font-size:18px;">技术博客：http://blog.csdn.net/ydcun</span>
  - <span style="font-size:18px;">Github：http://github.com</span>
+ - <span style="font-size:18px;">Email：yudiancun<strong>(at)</strong>ict.ac.cn</span>
 
 ---
 # 研究方向
