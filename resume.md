@@ -16,27 +16,27 @@
 
 # 实习经历
 
-## 上海天正信息科技有限公司 （ 2015年3月 ~ 2015年10月 ）
+### 上海天正信息科技有限公司 （ 2015年3月 ~ 2015年10月 ）
 
-> <h3>酒店云管理平台（升级改造)</h3>
+> <span style="font-size:18px;">酒店云管理平台（升级改造)</span>
 
-## 厦门新科技软件股份有限公司 （ 2013年3月 ~ 2012年9月 ）
+### 厦门新科技软件股份有限公司 （ 2013年3月 ~ 2012年9月 ）
 
-> <h3>公司内部网改造</h3>
-### 三级项目经理考核系统二次开发
-### 电信动漫基地知识库和工单管理系统
+> <span style="font-size:18px;">公司内部网改造</span><br/>
+> <span style="font-size:18px;">三级项目经理考核系统二次开发</span><br/>
+> <span style="font-size:18px;">电信动漫基地知识库和工单管理系统</span>
 
-## 中软国际（2012年7月 ~ 2012年12月）
+### 中软国际（2012年7月 ~ 2012年12月）
 
-> <h3>酒店管理系统</h3>
-### 鲜花网商城系统
-### 局域网即使铜须系统
+> <span style="font-size:18px;">酒店管理系统</span><br/>
+> <span style="font-size:18px;">鲜花网商城系统</span><br/>
+> <span style="font-size:18px;">局域网即使铜须系统</span><br/>
 
 ---
 
 # 技能清单
 
-##### 以下均为我熟练使用的技能
+#### 以下均为我熟练使用的技能
 
 - <span style="font-size:18px;">Web开发：Java/JavaEE/Android</span>
 - <span style="font-size:18px;">Web框架：Easyui/SpringMVC/Spring/Struct2/Hibernate/Mybatis
@@ -46,7 +46,7 @@
 - <span style="font-size:18px;">云和开放平台：百度云开发平台/微信应用开发</span>
 - <span style="font-size:18px;">服务器环境：阿里云/Centos6.5/Nginx/Tomcat/Jetty/Linux</span>
 
-##### 以下正在学习中的技能
+#### 以下正在学习中的技能
 
 - <span style="font-size:18px;">机器学习：R/Weak/matlab/python</span>
 
