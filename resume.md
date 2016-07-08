@@ -1,5 +1,5 @@
 # 个人信息
-<div style="height:200px;float:left;padding:30px 70px 30px 20px;">
+<div style="height:196px;float:left;padding:30px 70px 30px 20px;">
   <img src="http://ydcun.github.io/img/DSC_5537.jpg" width="120px;"/>
 </div>
  - <span style="font-size:18px;">于佃存/男/学生</span>
