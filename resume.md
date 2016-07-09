@@ -10,8 +10,7 @@
  - <span style="font-size:18px;">Github：http://github.com/ydcun</span>
 
 - <span style="font-size:18px;">期望职位：Java高级程序员，架构师</span>
-- <span style="font-size:18px;">期望城市：北京,上海，杭州</span>
-
+- <span style="font-size:18px;">期望城市：北京，上海，杭州</span>
 
 ---
 
