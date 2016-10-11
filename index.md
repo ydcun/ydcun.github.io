@@ -1,6 +1,6 @@
 # 个人信息
 
-  <img src="http://ydcun.github.io/img/DSC_5537.jpg" width="120px;" style="float:left; margin-right:100px;"/>
+  <img src="http://ydcun.github.io/img/20160625211714.jpg" width="120px;" style="float:left; margin-right:100px;"/>
 
  - <span style="font-size:18px;">于佃存 / 男 / 在读研究生</span>
  - <span style="font-size:18px;">学 校：中国科学院计算技术研究所</span>
@@ -12,4 +12,4 @@
 
 ---
 # 研究方向
-> <h4>普世计算，机器学习，行为识别，情景感知</h4>
+> <h5>普世计算，机器学习，行为识别，情景感知dddddaaaa</h5>
